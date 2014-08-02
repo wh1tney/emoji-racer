@@ -17,4 +17,4 @@ until game.finished?
 sleep(0.01)
 end
 
-Interface.output_with_newline "\n#{game.winner[0..-3]} is the GitHub boss.\n"
+Interface.output_with_newline "\n#{game.winner[0..-3]} is bawse.\n"
